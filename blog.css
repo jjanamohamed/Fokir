@@ -1,0 +1,60 @@
+.blog {
+    width: 100%;
+    background-color: #f0f0f0;
+    padding: 90px 0; 
+}
+
+.blog h1 {
+    margin-bottom: 40px; 
+    text-align: center;
+}
+
+.blog-content {
+    display: flex; 
+    width: 85%; 
+    margin: 0 auto;
+}
+
+
+.first-blog, .second-blog, .third-blog {
+    width: 100%; 
+    height: 450px;
+    background-color: white;
+    margin: 10px; 
+    padding:15px;
+
+}
+
+.first-blog img,
+.second-blog iframe,
+.third-blog img {
+    width: 100%;
+    height: 180px; 
+    margin-bottom: 10px;
+}
+
+.first-blog a,
+.second-blog a,
+.third-blog a {
+    color: gray; 
+    text-decoration: none; 
+    font-weight: bold; 
+}
+
+.first-blog p, .second-blog p, .third-blog p {
+    margin: 15px 0; 
+}
+
+.first-blog h2 a,
+.second-blog h2 a,
+.third-blog h2 a {
+    color: black; 
+    transition: color 0.3s; 
+    margin: 10px 0;
+}
+
+.first-blog a:hover,
+.second-blog a:hover,
+.third-blog a:hover {
+    color: red; 
+}

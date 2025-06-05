@@ -1,0 +1,150 @@
+@media only screen and (max-width: 600px) {
+    .navbar, 
+    #home, 
+    .parent-1, 
+    .our-services, 
+    #portfolio, 
+    .blog, 
+    .contact-us, 
+    .footer,
+    .services-container, 
+    .blog-content {
+        width: 100%;
+        display: block; 
+        text-align: center; 
+    }
+
+    .service-item,
+    .team-members,
+    .complete-projects,
+    .files-downloaded,
+    .lines-code,
+    .first-blog,
+    .second-blog,
+    .third-blog {
+        width: 100%; 
+        margin: 10px 0; 
+    }
+
+}
+
+
+@media only screen and (min-width: 600px) and (max-width: 768px) {
+    .navbar, 
+    #home, 
+    .parent-1, 
+    .our-services, 
+    #portfolio, 
+    .blog, 
+    .contact-us, 
+    .footer {
+        width: 100%; 
+    }
+
+    .services-container, 
+    .blog-content {
+        width: 100%; 
+    }
+
+    .service-item,
+    .team-members,
+    .complete-projects,
+    .files-downloaded,
+    .lines-code,
+    .first-blog,
+    .second-blog,
+    .third-blog {
+        width: 100%;
+        margin-bottom: 20px;
+    }
+}
+
+@media only screen and (min-width: 768px) and (max-width: 992px) {
+    .navbar, 
+    #home, 
+    .parent-1, 
+    .our-services, 
+    #portfolio, 
+    .blog, 
+    .contact-us, 
+    .footer {
+        width: 100%; 
+    }
+
+    .services-container, 
+    .blog-content {
+        width: 100%; 
+    }
+
+    .service-item,
+    .team-members,
+    .complete-projects,
+    .files-downloaded,
+    .lines-code,
+    .first-blog,
+    .second-blog,
+    .third-blog {
+        width: 100%;
+        margin-bottom: 20px;
+    }
+}
+
+@media only screen and (min-width: 992px) and (max-width: 1200px) {
+    .navbar, 
+    #home, 
+    .parent-1, 
+    .our-services, 
+    #portfolio, 
+    .blog, 
+    .contact-us, 
+    .footer {
+        width: 100%;
+    }
+
+    .services-container, 
+    .blog-content {
+        width: 100%;
+    }
+
+    .service-item,
+    .team-members,
+    .complete-projects,
+    .files-downloaded,
+    .lines-code,
+    .first-blog,
+    .second-blog,
+    .third-blog {
+        width: 100%;
+        margin-bottom: 20px;
+    }
+}
+
+@media only screen and (min-width: 1200px) {
+    .navbar, 
+    #home, 
+    .parent-1, 
+    .our-services, 
+    #portfolio, 
+    .blog, 
+    .contact-us, 
+    .footer {
+        width: 100%;
+    }
+
+    .services-container, 
+    .blog-content {
+        width: 100%;
+    }
+
+    .service-item,
+    .team-members,
+    .complete-projects,
+    .files-downloaded,
+    .lines-code,
+    .first-blog,
+    .second-blog,
+    .third-blog {
+        width: 100%;
+        margin-bottom: 20px;
+    }
+}
